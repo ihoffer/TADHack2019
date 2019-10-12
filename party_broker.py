@@ -21,6 +21,3 @@ def get_party_tonight(club):
 
 def get_party_by_index(index):
     return get_parties_tonight()[index]
-
-
-print get_parties_tonight()

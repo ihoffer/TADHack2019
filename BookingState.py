@@ -37,7 +37,7 @@ class BookingState:
         flush_booking(payload)
 
     def build_booking(self):
-        club_name = get_party_by_index(self.state["club"])
+        club_name = get_party_by_index(self.state["club"])["clubName"]
         name = dbcont[long(self.state["originator"])]
         payload = {
             "clubName": club_name,
