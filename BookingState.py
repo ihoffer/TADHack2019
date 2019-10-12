@@ -3,10 +3,11 @@ import datetime
 
 from booking_writer import flush_booking
 from message_broker import get_stage_confirmation, get_stage_question
+from party_broker import get_party_by_index
 
 day = datetime.datetime.today().weekday()
 
-from db import dbclub, dbcont
+from db import dbcont
 
 class BookingState:
     def __init__(self, originator, club):
@@ -36,15 +37,10 @@ class BookingState:
         flush_booking(payload)
 
     def build_booking(self):
-        clubName = ""
-        ctr = 0
-        for j in dbclub:
-            ctr += 1
-            if dbclub[j][day] != "" and ctr == self.state["club"]:
-                clubName = j
+        club_name = get_party_by_index(self.state["club"])
         name = dbcont[long(self.state["originator"])]
         payload = {
-            "clubName": clubName,
+            "clubName": club_name,
             "name": name,
             "phone": self.state["originator"],
             "groupSize": self.state["groupSize"]
