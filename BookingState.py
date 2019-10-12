@@ -2,7 +2,7 @@
 import datetime
 
 from booking_writer import flush_booking
-from message_broker import get_stage_confirmation
+from message_broker import get_stage_confirmation, get_stage_question
 
 day = datetime.datetime.today().weekday()
 
@@ -16,15 +16,12 @@ class BookingState:
             "club": int(club),
             "originator": originator
         }
-        self.question = {
-            "groupSize": "What's your group size, m8?"
-        }
 
     def getNextQuestion(self):
         if len(self.missing) > 0:
             nextInfo = self.missing.pop()
             self.currentQuestion = nextInfo
-            return self.question[nextInfo]
+            return get_stage_question(nextInfo)
         return None
 
     def putResponse(self, response):

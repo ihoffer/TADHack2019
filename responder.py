@@ -41,6 +41,7 @@ class Handler(Resource):
         else:
             send_text(originator, get_final_confirmation())
             booking.flushBooking()
+            del bookings_in_progress[originator]
 
 
 api.add_resource(Handler, "/receive")
