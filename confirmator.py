@@ -8,10 +8,10 @@ data = []
 with open('dbbookings.json', 'r') as f:
     for line in f:
         data.append(json.loads(line))
-"""
+
 with open('dbbookings.json', 'w') as f:
     del f
-"""
+
 day = datetime.datetime.today().weekday()
 print("Sup Francesco, having a grand day? \nYou got some decisions to make fam.\n")
 
