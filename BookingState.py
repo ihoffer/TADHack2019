@@ -10,7 +10,7 @@ from db import dbclub, dbcont
 
 class BookingState:
     def __init__(self, originator, club):
-        self.currentQuestion = club
+        self.currentQuestion = "club"
         self.missing = ["groupSize"]
         self.state = {
             "club": int(club),
