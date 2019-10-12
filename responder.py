@@ -18,4 +18,4 @@ class Handler(Resource):
 
 api.add_resource(Handler, "/receive")
 
-app.run(debug=False)
+app.run(host='0.0.0.0', debug=False)
