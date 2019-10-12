@@ -28,16 +28,11 @@ class Handler(Resource):
         booking = bookings_in_progress[originator]
         booking.putResponse(response)
 
-        # Send some confirmation message
-        stage_confirmation = booking.getStageConfirmation()
-        if stage_confirmation is not None:
-            send_text(originator, stage_confirmation)
-
         # Send out new question
-        new_question = booking.getNextQuestion()
-        if new_question is not None:
-            print "Sending {} to {}".format(new_question, originator)
-            send_text(originator, new_question)
+        new_message = booking.getNextMessage()
+        if new_message is not None:
+            print "Sending {} to {}".format(new_message, originator)
+            send_text(originator, new_message)
         else:
             send_text(originator, get_final_confirmation())
             booking.flushBooking()

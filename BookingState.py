@@ -32,6 +32,16 @@ class BookingState:
     def getStageConfirmation(self):
         return get_stage_confirmation(self.currentQuestion)
 
+    def getNextMessage(self):
+        confirmation = self.getStageConfirmation()
+        question = self.getNextQuestion()
+        message = ""
+        if confirmation is not None:
+            message += confirmation + " "
+        if question is not None:
+            message += question
+        return message if message != "" else None
+
     def flushBooking(self):
         payload = self.build_booking()
         flush_booking(payload)
