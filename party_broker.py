@@ -20,4 +20,4 @@ def get_party_tonight(club):
     return club["parties"][day]
 
 def get_party_by_index(index):
-    return get_parties_tonight()[index]
+    return get_parties_tonight()[index - 1]
