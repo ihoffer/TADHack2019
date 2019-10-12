@@ -1,7 +1,7 @@
 # coding=utf-8
 import json
 from simwood_service import send_text
-from db import dbclub
+from party_broker import get_parties_tonight
 import datetime
 
 data = []
@@ -23,9 +23,9 @@ for i in data:
         send_text(i['phone'], "You're booked in for an amazing night in " + i['clubName'] + ". Prepare them moves!")
     else:
         ResponseN = ''
+        remaining_parties = list(filter(lambda p : p.clubName != i['clubName'], get_parties_tonight()))
         ctr = 1
-        for j in dbclub:
-            if (dbclub[j][day] != "" and j != i['clubName']):
-                ResponseN += str(ctr) + ". " + j + ": " + dbclub[j][day] + "\n"
+        for j in remaining_parties:
+                ResponseN += "{}. {}: {}\n".format(ctr, j["clubName"], j["partyName"])
                 ctr += 1
         send_text(i['phone'], "We couldn't accomodate your request this time. Do you want to pick one of the other clubs? \n" + ResponseN)
