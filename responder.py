@@ -1,3 +1,4 @@
+# coding=utf-8
 from flask import Flask, request
 from flask_restful import Api, Resource
 
@@ -34,6 +35,6 @@ class Handler(Resource):
             print(booking.state)
             booking.flushBooking()
 
-api.add_resource(Handler, "/receive")
 
+api.add_resource(Handler, "/receive")
 app.run(host='0.0.0.0', debug=False, port=80)

@@ -1,3 +1,4 @@
+# coding=utf-8
 import json
 from simwood_service import send_text
 

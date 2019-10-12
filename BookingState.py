@@ -1,3 +1,4 @@
+# coding=utf-8
 import datetime
 
 from booking_writer import flush_booking
@@ -40,7 +41,7 @@ class BookingState:
             ctr += 1
             if dbclub[j][day] != "" and ctr == self.state["club"]:
                 clubName = j
-        name = dbcont[self.state["originator"]]
+        name = dbcont[long(self.state["originator"])]
         payload = {
             "clubName": clubName,
             "name": name,

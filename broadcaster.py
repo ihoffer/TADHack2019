@@ -1,3 +1,4 @@
+# coding=utf-8
 from simwood_service import send_text
 from db import dbclub, dbcont
 import datetime
