@@ -14,7 +14,6 @@ session.auth = (user, pw)
 
 def send_text(to, message):
     endpoint = url + "messaging/{}/sms".format(account_id)
-    print endpoint
     payload = {
         "from": app_name,
         "to": to,
