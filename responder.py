@@ -3,6 +3,8 @@ from flask_restful import Api, Resource
 
 from simwood_service import send_text
 
+from BookingState import BookingState
+
 app = Flask(__name__)
 api = Api(app)
 
@@ -19,7 +21,7 @@ class Handler(Resource):
 
     def handleResponse(self, originator, response):
         if originator not in bookings_in_progress:
-            bookings_in_progress[originator] = BookingState(response)
+            bookings_in_progress[originator] = BookingState(originator, response)
 
         booking = bookings_in_progress[originator]
         booking.putResponse(response)
@@ -31,33 +33,6 @@ class Handler(Resource):
         else:
             print(booking.state)
             booking.flushBooking()
-
-
-class BookingState:
-    def __init__(self, club):
-        self.currentQuestion = None
-        self.missing = ["group_size"]
-        self.state = {
-            "club": int(club)
-        }
-        self.question = {
-            "group_size": "What's your group size, m8?"
-        }
-
-    def getNextQuestion(self):
-        if len(self.missing) > 0:
-            nextInfo = self.missing.pop()
-            self.currentQuestion = nextInfo
-            return self.question[nextInfo]
-        return None
-
-    def putResponse(self, response):
-        if self.currentQuestion is not None:
-            self.state[self.currentQuestion] = int(response)
-
-    def flushBooking(self):
-        pass
-
 
 api.add_resource(Handler, "/receive")
 
