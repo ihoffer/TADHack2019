@@ -16,6 +16,6 @@ for i in data:
     s = i['name'] + " wants to go to " + i['clubName'] +" in a group of " + str(i['groupSize']) + "\n"
     print(s)
     print("Francescoed? [Y/N]")
-    dec = str(input())
+    dec = str(raw_input())
     if dec == 'Y':
         send_text(i['phone'], "You're booked in fam. Prepare them moves!")
