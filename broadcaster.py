@@ -19,5 +19,5 @@ for j in dbclub:
 #send out messages to contacts in directory
 for i in dbcont:
     sf = s1 + i + ",\n\n" + s2 + s + "\n" + s3
-    print(dbcont[i], sf)
+    send_text(dbcont[i], sf)
 
