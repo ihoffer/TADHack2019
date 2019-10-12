@@ -1,8 +1,8 @@
 # coding=utf-8
 dbcont = {
     447887370010: "Matyi",
-    447477468440: "István",
-    447542410177: "Balázs"
+    447477468440: "Istvan",
+    447542410177: "Balazs"
 }
 
 dbclub = {
