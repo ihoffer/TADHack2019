@@ -1,13 +1,10 @@
 # coding=utf-8
-import datetime
-
 from booking_writer import flush_booking
 from message_broker import get_stage_confirmation, get_stage_question
 from party_broker import get_party_by_index
 
-day = datetime.datetime.today().weekday()
-
 from db import dbcont
+
 
 class BookingState:
     def __init__(self, originator, club):

@@ -11,11 +11,17 @@ app = Flask(__name__)
 api = Api(app)
 
 bookings_in_progress = dict()
+seen_messages = list()
 
 
 class Handler(Resource):
     def post(self):
         json = request.get_json(force=True)
+
+        id = json["id"]
+        if id in seen_messages:
+            return "Duplicate message, ignoring..."
+        seen_messages.append(id)
 
         self.handleResponse(json["data"]["originator"], json["data"]["message"])
 
