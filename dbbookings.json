@@ -1,1 +1,2 @@
-{"bookings": [["Tonteria", "Matyi", 447887370010, 4], ["Cuckoo", "Istvan", 447477468440, 8]]}
+{"clubName": "Tonteria", "name": "Matyi", "phone": 447887370010, "groupSize": 4}
+{"clubName": "Tonteria", "name": "Istvan", "phone": 447477468440, "groupSize": 8}
