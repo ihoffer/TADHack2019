@@ -19,4 +19,4 @@ def send_text(to, message):
         "to": to,
         "message": message
     }
-    print session.post(endpoint, json=payload)
+    return session.post(endpoint, json=payload)
