@@ -1,6 +1,8 @@
 # coding=utf-8
 import json
 from simwood_service import send_text
+from db import dbclub
+import datetime
 
 data = []
 with open('dbbookings.json', 'r') as f:
@@ -10,12 +12,20 @@ with open('dbbookings.json', 'r') as f:
 with open('dbbookings.json', 'w') as f:
     del f
 
-
+day = datetime.datetime.today().weekday()
 print("Sup Francesco, having a grand day? \nYou got some decisions to make fam.\n")
 for i in data:
     s = i['name'] + " wants to go to " + i['clubName'] +" in a group of " + str(i['groupSize']) + "\n"
     print(s)
     print("Francescoed? [Y/N]")
-    dec = str(raw_input())
+    dec = str(raw_input()).capitalize()
     if dec == 'Y':
-        send_text(i['phone'], "You're booked in fam. Prepare them moves!")
+        send_text(i['phone'], "You're booked in for an amazing night in " + i['clubName'] + ". Prepare them moves!")
+    else:
+        ResponseN = ''
+        ctr = 1
+        for j in dbclub:
+            if (dbclub[j][day] != "" and j != i['clubName']):
+                ResponseN += str(ctr) + ". " + j + ": " + dbclub[j][day] + "\n"
+                ctr += 1
+        send_text(i['phone'], "We couldn't accomodate your request this time. Do you want to pick one of the other clubs? \n" + ResponseN)
