@@ -1,3 +1,4 @@
+# coding=utf-8
 dbcont = {
     447887370010: "Matyi",
     447477468440: "István",
