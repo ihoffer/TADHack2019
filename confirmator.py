@@ -28,7 +28,6 @@ for i in data:
     else:
         ResponseN = ''
         remaining_parties = list(filter(lambda p : p['clubName'] != i['clubName'], get_parties_tonight()))
-        print(remaining_parties)
         ctr = 1
         for j in remaining_parties:
                 ResponseN += "{}. {}: {}\n".format(ctr, j["clubName"], j["partyName"])
