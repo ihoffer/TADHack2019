@@ -2,6 +2,7 @@
 import json
 from simwood_service import send_text
 from party_broker import get_parties_tonight
+from booking_writer import flush_complete_booking
 import datetime
 
 data = []
@@ -20,8 +21,10 @@ for i in data:
     print(s)
     print("Francescoed? [Y/N]")
     dec = str(raw_input()).capitalize()
+    final_booking = ""
     if dec == 'Y':
         send_text(i['phone'], "You're booked in for an amazing night in " + i['clubName'] + ". Prepare them moves!")
+        final_booking = "{},{},{},{},{},{}".format(datetime.date.today(), i["name"], i["phone"], i["clubName"], i["groupSize"], True)
     else:
         ResponseN = ''
         remaining_parties = list(filter(lambda p : p['clubName'] != i['clubName'], get_parties_tonight()))
@@ -31,3 +34,5 @@ for i in data:
                 ResponseN += "{}. {}: {}\n".format(ctr, j["clubName"], j["partyName"])
                 ctr += 1
         send_text(i['phone'], "We couldn't accomodate your request this time. Do you want to pick one of the other clubs? \n" + ResponseN)
+        final_booking = "{},{},{},{},{},{}".format(datetime.date.today(), i["name"], i["phone"], i["clubName"], i["groupSize"], False)
+    flush_complete_booking(final_booking)

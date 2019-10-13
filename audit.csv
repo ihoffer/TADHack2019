@@ -1,3 +1,5 @@
 date,name,phone,club,crowd,booked
 2019-10-10,Istvan,07477468440,Tonteria,6,True
 2019-10-10,Istvan,07477468440,Tonteria,6,False
+2019-10-13,Matyi,447887370010,Tonteria,4,True
+2019-10-13,Istvan,447477468440,Tonteria,8,False
