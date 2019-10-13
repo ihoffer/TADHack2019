@@ -32,6 +32,6 @@ for _ in range(250):
         decisions_p = [0.3, 0.7]
         decision = np.random.choice(decisions, p=decisions_p)
     else:
-        deciison = np.random.choice(decisions)
+        decision = np.random.choice(decisions)
     line = "2019-10-{},{},{},{},{},{}".format(day, selected_name, phone_number, club_name, party_size, decision)
     print(line)
