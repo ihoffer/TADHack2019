@@ -1,251 +1,251 @@
 date,name,phone,club,crowd,booked
-2019-10-12,Kyle,44123456789,Cafe de Paris,5,True
-2019-10-12,Sally,44123456789,Toyroom,5,True
-2019-10-3,Kyle,44123456789,Tonteria,4,False
-2019-10-6,Kyle,44123456789,Toyroom,6,False
-2019-10-2,Kyle,44123456789,Cafe de Paris,3,True
-2019-10-14,Alice,44123456789,Cafe de Paris,12,False
-2019-10-9,Sally,44123456789,Cafe de Paris,9,False
-2019-10-3,Kyle,44123456789,Cuckoo,6,False
-2019-10-9,Kyle,44123456789,Circe le Soir,6,True
-2019-10-9,Karen,44123456789,Toyroom,3,True
-2019-10-6,Anna,44123456789,Circe le Soir,4,False
-2019-10-3,Kyle,44123456789,Tonteria,4,False
-2019-10-14,Matyas,44123456789,Cafe de Paris,10,True
-2019-10-7,Kyle,44123456789,Tonteria,3,False
-2019-10-5,Karen,44123456789,Circe le Soir,12,False
-2019-10-6,Kyle,44123456789,Circe le Soir,11,False
-2019-10-10,Kyle,44123456789,Tonteria,12,False
-2019-10-11,Sally,44123456789,Circe le Soir,9,False
-2019-10-13,Anna,44123456789,Circe le Soir,5,True
-2019-10-10,Mike,44123456789,Cuckoo,6,False
-2019-10-9,Anna,44123456789,Cafe de Paris,4,True
-2019-10-10,Sally,44123456789,Toyroom,11,True
-2019-10-14,Anna,44123456789,Cafe de Paris,12,False
-2019-10-12,Kyle,44123456789,Cafe de Paris,6,False
-2019-10-5,Kyle,44123456789,Toyroom,8,True
-2019-10-9,Clara,44123456789,Cuckoo,4,False
-2019-10-5,Karen,44123456789,Cafe de Paris,7,False
-2019-10-9,Sally,44123456789,Cafe de Paris,8,False
-2019-10-12,Karen,44123456789,Cafe de Paris,11,False
-2019-10-5,Sally,44123456789,Tonteria,4,True
-2019-10-5,Sally,44123456789,Cuckoo,9,False
-2019-10-13,Anna,44123456789,Cafe de Paris,9,True
-2019-10-8,Alice,44123456789,Cafe de Paris,7,False
-2019-10-12,Alice,44123456789,Cuckoo,8,False
-2019-10-6,Karen,44123456789,Circe le Soir,4,True
-2019-10-7,Alice,44123456789,Toyroom,12,False
-2019-10-4,Kyle,44123456789,Toyroom,5,True
-2019-10-9,Kyle,44123456789,Cafe de Paris,9,True
-2019-10-13,Karen,44123456789,Cafe de Paris,7,False
-2019-10-7,Alice,44123456789,Circe le Soir,4,False
-2019-10-14,Sally,44123456789,Cafe de Paris,4,True
-2019-10-3,Kyle,44123456789,Cuckoo,8,True
-2019-10-5,Kyle,44123456789,Tonteria,10,False
-2019-10-13,Anna,44123456789,Cuckoo,11,True
-2019-10-12,Mike,44123456789,Circe le Soir,12,False
-2019-10-13,Kyle,44123456789,Cuckoo,5,True
-2019-10-6,Alice,44123456789,Tonteria,8,False
-2019-10-13,Mike,44123456789,Toyroom,5,False
-2019-10-2,Istvan,44123456789,Tonteria,6,False
-2019-10-5,Alice,44123456789,Circe le Soir,11,True
-2019-10-1,Jake,44123456789,Circe le Soir,4,False
-2019-10-14,Alice,44123456789,Circe le Soir,8,False
-2019-10-14,Clara,44123456789,Cafe de Paris,9,False
-2019-10-13,Istvan,44123456789,Tonteria,4,True
-2019-10-10,Kyle,44123456789,Toyroom,7,True
-2019-10-6,Mike,44123456789,Tonteria,12,True
-2019-10-9,Karen,44123456789,Cafe de Paris,4,False
-2019-10-10,Alice,44123456789,Cafe de Paris,4,True
-2019-10-6,Kyle,44123456789,Tonteria,5,False
-2019-10-2,Mike,44123456789,Tonteria,4,False
-2019-10-6,Kyle,44123456789,Circe le Soir,8,False
-2019-10-14,Kyle,44123456789,Cafe de Paris,11,False
-2019-10-13,Alice,44123456789,Cafe de Paris,9,True
-2019-10-5,Kyle,44123456789,Circe le Soir,6,False
-2019-10-13,Karen,44123456789,Tonteria,6,False
-2019-10-1,Kyle,44123456789,Circe le Soir,10,False
-2019-10-14,Kyle,44123456789,Cafe de Paris,12,False
-2019-10-13,Sally,44123456789,Circe le Soir,12,True
-2019-10-13,Anna,44123456789,Cafe de Paris,6,False
-2019-10-13,Istvan,44123456789,Cafe de Paris,4,True
-2019-10-4,Kyle,44123456789,Toyroom,12,False
-2019-10-6,Kyle,44123456789,Toyroom,8,True
-2019-10-8,Karen,44123456789,Cuckoo,3,True
-2019-10-5,Kyle,44123456789,Toyroom,5,False
-2019-10-6,Karen,44123456789,Circe le Soir,11,False
-2019-10-12,Karen,44123456789,Cafe de Paris,7,False
-2019-10-5,Karen,44123456789,Cafe de Paris,7,False
-2019-10-6,Alice,44123456789,Circe le Soir,10,False
-2019-10-9,Sally,44123456789,Cafe de Paris,3,False
-2019-10-9,Kyle,44123456789,Cafe de Paris,9,False
-2019-10-2,Sally,44123456789,Tonteria,12,False
-2019-10-10,Alice,44123456789,Cuckoo,7,False
-2019-10-3,Kyle,44123456789,Cafe de Paris,5,False
-2019-10-12,Karen,44123456789,Tonteria,11,True
-2019-10-13,Karen,44123456789,Toyroom,10,True
-2019-10-6,Karen,44123456789,Circe le Soir,9,False
-2019-10-5,Kyle,44123456789,Cuckoo,10,False
-2019-10-6,Alice,44123456789,Cafe de Paris,3,True
-2019-10-1,Alice,44123456789,Tonteria,7,True
-2019-10-13,Sally,44123456789,Cafe de Paris,7,True
-2019-10-12,Kyle,44123456789,Circe le Soir,6,False
-2019-10-5,Sally,44123456789,Circe le Soir,7,True
-2019-10-7,Clara,44123456789,Tonteria,12,True
-2019-10-12,Karen,44123456789,Cuckoo,8,False
-2019-10-5,Alice,44123456789,Tonteria,3,False
-2019-10-3,Alice,44123456789,Tonteria,5,True
-2019-10-11,Sally,44123456789,Cuckoo,5,True
-2019-10-13,Alice,44123456789,Cuckoo,8,False
-2019-10-13,Mike,44123456789,Cuckoo,7,True
-2019-10-9,Kyle,44123456789,Cafe de Paris,10,False
-2019-10-8,Kyle,44123456789,Tonteria,11,False
-2019-10-4,Mike,44123456789,Circe le Soir,10,False
-2019-10-13,Alice,44123456789,Cafe de Paris,7,True
-2019-10-12,Kyle,44123456789,Tonteria,9,True
-2019-10-12,Kyle,44123456789,Cuckoo,8,True
-2019-10-12,Alice,44123456789,Cafe de Paris,3,False
-2019-10-1,Kyle,44123456789,Circe le Soir,6,True
-2019-10-12,Kyle,44123456789,Cafe de Paris,6,False
-2019-10-7,Karen,44123456789,Tonteria,11,False
-2019-10-12,Sally,44123456789,Cafe de Paris,12,False
-2019-10-2,Sally,44123456789,Tonteria,7,True
-2019-10-13,Alice,44123456789,Toyroom,7,False
-2019-10-14,Mike,44123456789,Cafe de Paris,10,True
-2019-10-6,Karen,44123456789,Circe le Soir,3,False
-2019-10-13,Karen,44123456789,Cafe de Paris,3,False
-2019-10-1,Karen,44123456789,Tonteria,11,False
-2019-10-11,Alice,44123456789,Tonteria,12,False
-2019-10-6,Kyle,44123456789,Cuckoo,7,False
-2019-10-13,Kyle,44123456789,Cuckoo,11,False
-2019-10-5,Karen,44123456789,Toyroom,6,False
-2019-10-7,Sally,44123456789,Tonteria,7,False
-2019-10-4,Sally,44123456789,Tonteria,9,False
-2019-10-13,Anna,44123456789,Circe le Soir,9,False
-2019-10-1,Anna,44123456789,Cafe de Paris,6,False
-2019-10-9,Anna,44123456789,Cafe de Paris,10,True
-2019-10-2,Istvan,44123456789,Cuckoo,12,True
-2019-10-6,Sally,44123456789,Cafe de Paris,5,False
-2019-10-6,Anna,44123456789,Tonteria,7,False
-2019-10-10,Alice,44123456789,Cafe de Paris,8,False
-2019-10-6,Sally,44123456789,Tonteria,9,False
-2019-10-12,Alice,44123456789,Cafe de Paris,5,True
-2019-10-3,Kyle,44123456789,Tonteria,3,False
-2019-10-13,Anna,44123456789,Cafe de Paris,6,True
-2019-10-13,Anna,44123456789,Cafe de Paris,10,False
-2019-10-2,Kyle,44123456789,Tonteria,9,False
-2019-10-2,Mike,44123456789,Circe le Soir,3,True
-2019-10-2,Sally,44123456789,Cuckoo,9,False
-2019-10-1,Karen,44123456789,Cuckoo,5,True
-2019-10-13,Alice,44123456789,Cafe de Paris,5,True
-2019-10-12,Karen,44123456789,Cafe de Paris,11,False
-2019-10-9,Alice,44123456789,Cafe de Paris,5,False
-2019-10-14,Karen,44123456789,Cafe de Paris,8,False
-2019-10-10,Alice,44123456789,Cafe de Paris,12,False
-2019-10-6,Alice,44123456789,Tonteria,3,False
-2019-10-5,Alice,44123456789,Circe le Soir,4,True
-2019-10-2,Anna,44123456789,Tonteria,8,True
-2019-10-1,Karen,44123456789,Circe le Soir,7,False
-2019-10-6,Karen,44123456789,Cuckoo,11,False
-2019-10-8,Alice,44123456789,Cuckoo,9,True
-2019-10-11,Alice,44123456789,Circe le Soir,4,True
-2019-10-6,Karen,44123456789,Circe le Soir,6,False
-2019-10-6,Kyle,44123456789,Cuckoo,7,False
-2019-10-6,Mike,44123456789,Cuckoo,5,True
-2019-10-6,Alice,44123456789,Tonteria,10,False
-2019-10-10,Sally,44123456789,Cafe de Paris,10,False
-2019-10-8,Kyle,44123456789,Cafe de Paris,6,True
-2019-10-8,Sally,44123456789,Cuckoo,8,True
-2019-10-13,Kyle,44123456789,Cafe de Paris,9,False
-2019-10-5,Anna,44123456789,Tonteria,12,False
-2019-10-5,Jake,44123456789,Circe le Soir,9,False
-2019-10-11,Kyle,44123456789,Toyroom,8,False
-2019-10-8,Kyle,44123456789,Circe le Soir,4,True
-2019-10-5,Clara,44123456789,Circe le Soir,9,False
-2019-10-2,Karen,44123456789,Cuckoo,7,True
-2019-10-5,Karen,44123456789,Tonteria,8,False
-2019-10-5,Kyle,44123456789,Toyroom,5,True
-2019-10-4,Karen,44123456789,Cuckoo,8,False
-2019-10-7,Anna,44123456789,Toyroom,11,False
-2019-10-9,Kyle,44123456789,Cuckoo,3,False
-2019-10-2,Kyle,44123456789,Cuckoo,5,False
-2019-10-9,Istvan,44123456789,Circe le Soir,11,False
-2019-10-6,Sally,44123456789,Tonteria,6,False
-2019-10-13,Karen,44123456789,Toyroom,12,False
-2019-10-8,Alice,44123456789,Circe le Soir,6,False
-2019-10-2,Sally,44123456789,Circe le Soir,8,True
-2019-10-8,Clara,44123456789,Cafe de Paris,10,False
-2019-10-13,Alice,44123456789,Circe le Soir,12,False
-2019-10-7,Istvan,44123456789,Tonteria,12,True
-2019-10-13,Anna,44123456789,Cafe de Paris,5,False
-2019-10-3,Sally,44123456789,Cuckoo,12,False
-2019-10-9,Anna,44123456789,Tonteria,6,False
-2019-10-9,Kyle,44123456789,Cafe de Paris,9,False
+2019-10-10,Sally,44123456789,Cafe de Paris,8,False
+2019-10-7,Sally,44123456789,Circe le Soir,10,True
+2019-10-9,Alice,44123456789,Toyroom,11,False
+2019-10-13,Sally,44123456789,Cafe de Paris,6,True
+2019-10-12,Karen,44123456789,Circe le Soir,10,False
+2019-10-2,Kyle,44123456789,Circe le Soir,5,False
+2019-10-13,Clara,44123456789,Toyroom,11,False
+2019-10-14,Kyle,44123456789,Cafe de Paris,10,False
+2019-10-13,Sally,44123456789,Cuckoo,5,True
+2019-10-14,Kyle,44123456789,Cuckoo,8,False
+2019-10-6,Kyle,44123456789,Cafe de Paris,6,False
+2019-10-9,Anna,44123456789,Cafe de Paris,7,True
+2019-10-14,Karen,44123456789,Cafe de Paris,4,False
+2019-10-8,Sally,44123456789,Toyroom,11,False
+2019-10-6,Anna,44123456789,Cafe de Paris,5,True
+2019-10-12,Alice,44123456789,Cafe de Paris,11,False
+2019-10-1,Karen,44123456789,Tonteria,4,False
+2019-10-6,Alice,44123456789,Cuckoo,11,True
+2019-10-2,Mike,44123456789,Cafe de Paris,9,False
+2019-10-1,Kyle,44123456789,Cuckoo,12,False
 2019-10-11,Sally,44123456789,Cafe de Paris,9,False
-2019-10-9,Istvan,44123456789,Circe le Soir,12,False
-2019-10-1,Sally,44123456789,Circe le Soir,10,False
-2019-10-1,Alice,44123456789,Tonteria,12,False
-2019-10-6,Kyle,44123456789,Circe le Soir,5,False
-2019-10-13,Karen,44123456789,Cafe de Paris,11,False
-2019-10-10,Alice,44123456789,Cafe de Paris,11,False
-2019-10-5,Anna,44123456789,Cuckoo,7,False
-2019-10-11,Kyle,44123456789,Cafe de Paris,4,True
-2019-10-13,Sally,44123456789,Circe le Soir,5,False
-2019-10-14,Mike,44123456789,Cafe de Paris,4,True
-2019-10-6,Mike,44123456789,Tonteria,6,False
-2019-10-11,Karen,44123456789,Toyroom,12,True
-2019-10-2,Anna,44123456789,Toyroom,5,False
-2019-10-2,Karen,44123456789,Tonteria,10,True
-2019-10-6,Sally,44123456789,Tonteria,10,True
-2019-10-6,Kyle,44123456789,Cuckoo,10,False
-2019-10-6,Sally,44123456789,Cuckoo,11,False
-2019-10-11,Istvan,44123456789,Toyroom,10,False
-2019-10-1,Alice,44123456789,Tonteria,5,False
-2019-10-6,Matyas,44123456789,Circe le Soir,5,True
-2019-10-5,Karen,44123456789,Cafe de Paris,3,True
-2019-10-9,Karen,44123456789,Cuckoo,9,False
+2019-10-11,Kyle,44123456789,Cafe de Paris,11,False
+2019-10-6,Kyle,44123456789,Circe le Soir,9,False
+2019-10-9,Anna,44123456789,Toyroom,5,False
+2019-10-9,Sally,44123456789,Circe le Soir,10,False
+2019-10-13,Karen,44123456789,Circe le Soir,5,False
+2019-10-10,Clara,44123456789,Cafe de Paris,4,False
+2019-10-11,Alice,44123456789,Cafe de Paris,10,True
+2019-10-12,Sally,44123456789,Toyroom,4,False
+2019-10-5,Anna,44123456789,Tonteria,11,True
+2019-10-1,Clara,44123456789,Tonteria,10,False
+2019-10-12,Karen,44123456789,Cuckoo,4,True
+2019-10-8,Anna,44123456789,Cafe de Paris,6,False
+2019-10-12,Kyle,44123456789,Toyroom,11,False
+2019-10-6,Clara,44123456789,Tonteria,12,True
 2019-10-6,Kyle,44123456789,Cuckoo,7,False
-2019-10-12,Sally,44123456789,Tonteria,11,True
-2019-10-11,Sally,44123456789,Cuckoo,7,False
-2019-10-12,Anna,44123456789,Tonteria,10,False
-2019-10-13,Anna,44123456789,Cuckoo,6,False
-2019-10-6,Sally,44123456789,Toyroom,9,False
-2019-10-1,Clara,44123456789,Cuckoo,4,False
-2019-10-5,Alice,44123456789,Cuckoo,12,True
-2019-10-7,Kyle,44123456789,Tonteria,7,False
-2019-10-5,Karen,44123456789,Cafe de Paris,3,False
-2019-10-6,Sally,44123456789,Tonteria,9,False
-2019-10-11,Kyle,44123456789,Cafe de Paris,12,False
-2019-10-13,Kyle,44123456789,Cafe de Paris,9,False
-2019-10-10,Karen,44123456789,Circe le Soir,5,False
-2019-10-13,Karen,44123456789,Cafe de Paris,10,False
-2019-10-13,Alice,44123456789,Toyroom,5,False
-2019-10-13,Alice,44123456789,Circe le Soir,5,True
-2019-10-12,Sally,44123456789,Cuckoo,10,False
-2019-10-6,Kyle,44123456789,Tonteria,6,False
-2019-10-11,Sally,44123456789,Cafe de Paris,7,True
-2019-10-12,Anna,44123456789,Cafe de Paris,12,True
-2019-10-11,Alice,44123456789,Cafe de Paris,7,True
-2019-10-5,Sally,44123456789,Cuckoo,8,False
-2019-10-8,Karen,44123456789,Cafe de Paris,12,False
-2019-10-5,Kyle,44123456789,Cuckoo,4,False
-2019-10-9,Alice,44123456789,Cafe de Paris,9,False
-2019-10-13,Anna,44123456789,Toyroom,5,True
-2019-10-1,Jake,44123456789,Cuckoo,8,False
-2019-10-7,Anna,44123456789,Circe le Soir,3,False
-2019-10-9,Kyle,44123456789,Circe le Soir,3,True
-2019-10-9,Kyle,44123456789,Cafe de Paris,11,False
-2019-10-2,Alice,44123456789,Tonteria,3,True
-2019-10-11,Alice,44123456789,Cafe de Paris,10,False
-2019-10-13,Sally,44123456789,Cafe de Paris,10,True
-2019-10-13,Kyle,44123456789,Toyroom,10,False
-2019-10-14,Karen,44123456789,Tonteria,11,False
-2019-10-3,Alice,44123456789,Cuckoo,12,True
-2019-10-8,Clara,44123456789,Cafe de Paris,6,False
-2019-10-5,Alice,44123456789,Tonteria,12,False
-2019-10-12,Sally,44123456789,Circe le Soir,6,False
-2019-10-6,Kyle,44123456789,Circe le Soir,6,False
-2019-10-12,Istvan,44123456789,Cafe de Paris,8,False
-2019-10-6,Sally,44123456789,Circe le Soir,11,False
-2019-10-12,Clara,44123456789,Circe le Soir,4,True
-2019-10-6,Kyle,44123456789,Tonteria,10,False
+2019-10-4,Anna,44123456789,Cafe de Paris,5,False
+2019-10-8,Karen,44123456789,Cuckoo,5,True
+2019-10-5,Clara,44123456789,Cafe de Paris,3,True
+2019-10-9,Matyas,44123456789,Cafe de Paris,6,True
+2019-10-10,Anna,44123456789,Tonteria,3,True
+2019-10-6,Alice,44123456789,Cuckoo,3,True
+2019-10-12,Clara,44123456789,Circe le Soir,5,True
+2019-10-13,Alice,44123456789,Tonteria,8,False
+2019-10-2,Anna,44123456789,Cafe de Paris,5,False
+2019-10-6,Istvan,44123456789,Circe le Soir,11,False
+2019-10-13,Clara,44123456789,Cafe de Paris,11,False
+2019-10-9,Matyas,44123456789,Cafe de Paris,4,False
+2019-10-1,Matyas,44123456789,Tonteria,6,False
+2019-10-3,Alice,44123456789,Tonteria,6,True
+2019-10-6,Clara,44123456789,Cuckoo,6,False
+2019-10-11,Anna,44123456789,Cafe de Paris,3,False
+2019-10-2,Kyle,44123456789,Cuckoo,11,False
+2019-10-12,Kyle,44123456789,Cuckoo,9,False
+2019-10-13,Karen,44123456789,Cuckoo,5,False
+2019-10-5,Kyle,44123456789,Tonteria,12,False
+2019-10-11,Sally,44123456789,Circe le Soir,11,False
+2019-10-1,Sally,44123456789,Toyroom,9,False
+2019-10-13,Clara,44123456789,Cafe de Paris,12,True
+2019-10-13,Jake,44123456789,Circe le Soir,12,False
+2019-10-12,Sally,44123456789,Circe le Soir,11,False
+2019-10-5,Istvan,44123456789,Tonteria,5,True
+2019-10-13,Kyle,44123456789,Circe le Soir,11,False
+2019-10-11,Alice,44123456789,Cafe de Paris,6,False
+2019-10-5,Mike,44123456789,Circe le Soir,6,False
+2019-10-11,Mike,44123456789,Circe le Soir,7,False
+2019-10-11,Sally,44123456789,Cuckoo,12,False
+2019-10-13,Alice,44123456789,Cafe de Paris,6,False
+2019-10-8,Matyas,44123456789,Cafe de Paris,7,False
+2019-10-5,Alice,44123456789,Circe le Soir,9,False
+2019-10-2,Jake,44123456789,Cafe de Paris,7,True
+2019-10-8,Kyle,44123456789,Circe le Soir,11,True
+2019-10-13,Jake,44123456789,Cafe de Paris,11,False
+2019-10-6,Karen,44123456789,Cuckoo,6,False
+2019-10-10,Kyle,44123456789,Cafe de Paris,5,False
+2019-10-5,Alice,44123456789,Cuckoo,5,False
+2019-10-6,Alice,44123456789,Cuckoo,5,True
+2019-10-11,Karen,44123456789,Cafe de Paris,10,False
+2019-10-1,Kyle,44123456789,Circe le Soir,8,False
+2019-10-14,Clara,44123456789,Toyroom,6,True
+2019-10-9,Karen,44123456789,Cuckoo,12,False
+2019-10-5,Sally,44123456789,Circe le Soir,11,False
+2019-10-8,Anna,44123456789,Tonteria,8,False
+2019-10-13,Matyas,44123456789,Tonteria,12,True
+2019-10-12,Kyle,44123456789,Cafe de Paris,9,True
+2019-10-5,Karen,44123456789,Tonteria,11,False
+2019-10-13,Sally,44123456789,Cafe de Paris,11,False
+2019-10-6,Sally,44123456789,Tonteria,7,False
+2019-10-6,Sally,44123456789,Cuckoo,4,False
+2019-10-14,Jake,44123456789,Cafe de Paris,8,False
+2019-10-9,Anna,44123456789,Cafe de Paris,4,True
+2019-10-4,Karen,44123456789,Circe le Soir,9,False
+2019-10-10,Anna,44123456789,Circe le Soir,12,False
+2019-10-1,Matyas,44123456789,Circe le Soir,11,True
+2019-10-11,Karen,44123456789,Tonteria,6,False
+2019-10-11,Karen,44123456789,Tonteria,8,False
+2019-10-14,Sally,44123456789,Cafe de Paris,7,False
+2019-10-13,Jake,44123456789,Cafe de Paris,12,True
+2019-10-14,Sally,44123456789,Cafe de Paris,5,False
+2019-10-1,Alice,44123456789,Circe le Soir,8,False
+2019-10-12,Kyle,44123456789,Toyroom,4,True
+2019-10-2,Sally,44123456789,Tonteria,5,False
+2019-10-4,Anna,44123456789,Circe le Soir,11,True
+2019-10-14,Sally,44123456789,Toyroom,7,False
+2019-10-2,Kyle,44123456789,Tonteria,11,False
+2019-10-9,Sally,44123456789,Cafe de Paris,5,False
+2019-10-13,Sally,44123456789,Tonteria,5,False
+2019-10-13,Alice,44123456789,Cafe de Paris,6,False
+2019-10-13,Alice,44123456789,Cafe de Paris,7,False
+2019-10-5,Alice,44123456789,Cafe de Paris,9,True
+2019-10-8,Sally,44123456789,Circe le Soir,5,True
+2019-10-8,Kyle,44123456789,Cafe de Paris,9,False
+2019-10-10,Kyle,44123456789,Circe le Soir,7,False
+2019-10-2,Alice,44123456789,Tonteria,5,True
+2019-10-9,Kyle,44123456789,Cafe de Paris,11,True
+2019-10-2,Alice,44123456789,Circe le Soir,3,False
+2019-10-12,Clara,44123456789,Toyroom,3,True
+2019-10-7,Anna,44123456789,Circe le Soir,11,False
+2019-10-3,Clara,44123456789,Circe le Soir,10,False
+2019-10-14,Matyas,44123456789,Tonteria,3,True
+2019-10-5,Karen,44123456789,Toyroom,6,False
+2019-10-12,Kyle,44123456789,Cuckoo,7,False
+2019-10-6,Sally,44123456789,Tonteria,11,False
+2019-10-12,Kyle,44123456789,Cafe de Paris,11,False
+2019-10-6,Karen,44123456789,Tonteria,4,False
+2019-10-13,Kyle,44123456789,Cafe de Paris,4,False
+2019-10-1,Sally,44123456789,Tonteria,11,False
+2019-10-2,Alice,44123456789,Circe le Soir,9,False
+2019-10-12,Alice,44123456789,Cafe de Paris,12,False
+2019-10-5,Sally,44123456789,Cuckoo,5,True
+2019-10-8,Karen,44123456789,Tonteria,5,False
+2019-10-12,Mike,44123456789,Circe le Soir,10,False
+2019-10-2,Anna,44123456789,Tonteria,11,False
+2019-10-9,Kyle,44123456789,Tonteria,4,True
+2019-10-5,Sally,44123456789,Circe le Soir,4,True
+2019-10-3,Alice,44123456789,Toyroom,6,True
+2019-10-7,Karen,44123456789,Circe le Soir,4,False
+2019-10-13,Mike,44123456789,Cafe de Paris,6,False
+2019-10-8,Kyle,44123456789,Circe le Soir,11,False
+2019-10-13,Alice,44123456789,Cafe de Paris,9,True
+2019-10-5,Alice,44123456789,Tonteria,4,True
+2019-10-11,Karen,44123456789,Cafe de Paris,5,False
+2019-10-8,Kyle,44123456789,Cafe de Paris,11,False
+2019-10-2,Kyle,44123456789,Toyroom,7,False
+2019-10-13,Sally,44123456789,Cafe de Paris,3,False
+2019-10-8,Alice,44123456789,Cuckoo,11,False
+2019-10-5,Anna,44123456789,Circe le Soir,4,False
+2019-10-11,Karen,44123456789,Tonteria,9,False
+2019-10-1,Kyle,44123456789,Toyroom,8,False
+2019-10-11,Istvan,44123456789,Cafe de Paris,5,False
+2019-10-13,Jake,44123456789,Toyroom,5,True
+2019-10-13,Karen,44123456789,Cafe de Paris,5,True
+2019-10-1,Clara,44123456789,Toyroom,7,False
+2019-10-2,Anna,44123456789,Tonteria,5,False
+2019-10-14,Anna,44123456789,Cafe de Paris,3,False
+2019-10-12,Mike,44123456789,Cafe de Paris,9,True
+2019-10-12,Jake,44123456789,Circe le Soir,5,True
+2019-10-2,Kyle,44123456789,Tonteria,5,False
+2019-10-1,Clara,44123456789,Tonteria,11,False
+2019-10-12,Karen,44123456789,Cafe de Paris,10,False
+2019-10-12,Karen,44123456789,Cafe de Paris,3,True
+2019-10-14,Kyle,44123456789,Cafe de Paris,8,False
+2019-10-1,Kyle,44123456789,Circe le Soir,4,False
+2019-10-2,Anna,44123456789,Circe le Soir,12,True
+2019-10-1,Sally,44123456789,Tonteria,5,True
+2019-10-1,Matyas,44123456789,Cafe de Paris,11,False
+2019-10-5,Istvan,44123456789,Toyroom,4,False
+2019-10-6,Karen,44123456789,Circe le Soir,10,False
+2019-10-5,Clara,44123456789,Toyroom,5,False
+2019-10-9,Mike,44123456789,Cafe de Paris,8,True
+2019-10-13,Karen,44123456789,Circe le Soir,6,True
+2019-10-5,Istvan,44123456789,Circe le Soir,7,True
+2019-10-6,Alice,44123456789,Circe le Soir,11,False
+2019-10-5,Sally,44123456789,Tonteria,11,True
+2019-10-13,Karen,44123456789,Cafe de Paris,5,False
+2019-10-5,Karen,44123456789,Tonteria,12,False
+2019-10-10,Anna,44123456789,Cafe de Paris,5,True
+2019-10-13,Clara,44123456789,Cafe de Paris,10,False
+2019-10-5,Sally,44123456789,Cafe de Paris,11,True
+2019-10-11,Istvan,44123456789,Tonteria,11,False
+2019-10-13,Karen,44123456789,Cuckoo,4,False
+2019-10-2,Kyle,44123456789,Cuckoo,3,True
+2019-10-12,Kyle,44123456789,Cafe de Paris,10,False
+2019-10-12,Anna,44123456789,Circe le Soir,10,True
+2019-10-9,Sally,44123456789,Toyroom,4,True
+2019-10-13,Clara,44123456789,Cafe de Paris,7,True
+2019-10-13,Kyle,44123456789,Cafe de Paris,7,False
+2019-10-13,Alice,44123456789,Cafe de Paris,5,True
+2019-10-6,Matyas,44123456789,Tonteria,5,True
+2019-10-6,Jake,44123456789,Circe le Soir,8,True
+2019-10-9,Sally,44123456789,Circe le Soir,9,False
+2019-10-9,Sally,44123456789,Cafe de Paris,11,False
+2019-10-11,Kyle,44123456789,Cafe de Paris,11,True
+2019-10-12,Kyle,44123456789,Tonteria,5,False
+2019-10-12,Sally,44123456789,Toyroom,5,True
+2019-10-11,Sally,44123456789,Tonteria,3,True
+2019-10-6,Mike,44123456789,Circe le Soir,11,True
+2019-10-7,Kyle,44123456789,Cuckoo,11,True
+2019-10-13,Kyle,44123456789,Cafe de Paris,11,True
+2019-10-13,Istvan,44123456789,Toyroom,4,True
+2019-10-5,Kyle,44123456789,Circe le Soir,9,True
+2019-10-14,Alice,44123456789,Circe le Soir,3,False
+2019-10-14,Alice,44123456789,Toyroom,6,True
+2019-10-3,Alice,44123456789,Circe le Soir,10,False
+2019-10-6,Karen,44123456789,Circe le Soir,8,False
+2019-10-7,Karen,44123456789,Circe le Soir,4,False
+2019-10-7,Sally,44123456789,Circe le Soir,6,False
+2019-10-5,Anna,44123456789,Tonteria,9,False
+2019-10-5,Karen,44123456789,Tonteria,9,True
+2019-10-2,Clara,44123456789,Circe le Soir,5,False
+2019-10-12,Alice,44123456789,Toyroom,12,False
+2019-10-2,Mike,44123456789,Tonteria,3,True
+2019-10-9,Kyle,44123456789,Cafe de Paris,9,False
+2019-10-5,Kyle,44123456789,Toyroom,10,False
+2019-10-12,Alice,44123456789,Tonteria,6,False
+2019-10-5,Kyle,44123456789,Tonteria,5,False
+2019-10-10,Kyle,44123456789,Cuckoo,11,False
+2019-10-9,Kyle,44123456789,Cafe de Paris,6,False
+2019-10-6,Alice,44123456789,Tonteria,5,False
+2019-10-5,Clara,44123456789,Tonteria,12,False
+2019-10-8,Kyle,44123456789,Cafe de Paris,9,False
+2019-10-1,Karen,44123456789,Cuckoo,9,True
+2019-10-4,Anna,44123456789,Circe le Soir,11,True
+2019-10-12,Alice,44123456789,Cafe de Paris,7,True
+2019-10-9,Mike,44123456789,Cafe de Paris,5,False
+2019-10-8,Anna,44123456789,Toyroom,10,False
+2019-10-5,Alice,44123456789,Tonteria,11,False
+2019-10-9,Alice,44123456789,Cafe de Paris,6,False
+2019-10-14,Kyle,44123456789,Cafe de Paris,11,False
+2019-10-9,Alice,44123456789,Cafe de Paris,5,True
+2019-10-2,Clara,44123456789,Cafe de Paris,4,False
+2019-10-9,Kyle,44123456789,Cafe de Paris,5,True
+2019-10-12,Karen,44123456789,Tonteria,6,False
+2019-10-13,Karen,44123456789,Cafe de Paris,8,True
+2019-10-5,Clara,44123456789,Tonteria,12,True
+2019-10-13,Karen,44123456789,Cuckoo,10,True
+2019-10-5,Anna,44123456789,Toyroom,5,True
+2019-10-13,Alice,44123456789,Cafe de Paris,6,False
+2019-10-13,Kyle,44123456789,Tonteria,5,True
+2019-10-9,Alice,44123456789,Cafe de Paris,8,False
+2019-10-13,Alice,44123456789,Cafe de Paris,10,False
+2019-10-1,Kyle,44123456789,Cuckoo,10,False
+2019-10-10,Kyle,44123456789,Cuckoo,11,False
+2019-10-2,Sally,44123456789,Circe le Soir,6,False
+2019-10-7,Anna,44123456789,Tonteria,8,False
+2019-10-5,Kyle,44123456789,Toyroom,7,False
+2019-10-2,Karen,44123456789,Tonteria,11,False
+2019-10-13,Kyle,44123456789,Cafe de Paris,5,True
+2019-10-7,Sally,44123456789,Cafe de Paris,3,True
+2019-10-7,Karen,44123456789,Toyroom,11,False

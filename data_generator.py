@@ -26,7 +26,11 @@ for _ in range(250):
     else:
         clubs_p = [0.1, 0.15, 0.1, 0.5, 0.15]
         club_name = np.random.choice(clubs, p=clubs_p)
-    party_size = random.randint(3, 12)
+    party_size = 0
+    if np.random.choice([True, False], p=[0.2, 0.8]):
+        party_size = random.choice([5, 11])
+    else:
+        party_size = random.randint(3, 12)
     decision = False
     if party_size > 5:
         decisions_p = [0.3, 0.7]
